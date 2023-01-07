@@ -1,31 +1,33 @@
 <h1 align='center'>Welcome to MSC_DA_CA2👋</h1>
 
-> 1- Estimating milk output. It is simpler to arrange your milking routine if you know how much milk your
+> The aims of the project are as follows.
+
+1: Estimating milk output. It is simpler to arrange your milking routine if you know how much milk your
 cows make each day and how much they will provide over time. This enables you to improve cow
 wellness while avoiding having too few or too many cows available during any particular moment.
 
-2- Recognizing issues with your herd. Identifying what's incorrect with your herd, for instance when an
+2: Recognizing issues with your herd. Identifying what's incorrect with your herd, for instance when an
 animal isn't giving enough dairy, allows you to address concerns before they become larger ones with
 long-term ramifications for the overall farm business if left unchecked. You may even be able to avoid
 them from happening in the future by carefully following their activity
 
-3- Herd management. Understanding what really is going on with your cattle might assist you in
+3: Herd management. Understanding what really is going on with your cattle might assist you in
 determining how to govern your herd the best. For instance, if a cow isn't providing enough dairy, it
 may be time to give her a dry spell or have her bred so she may produce more milk in the future. This
 might save you cost while also providing you with higher-quality dairy products.
 
-4- Applying data analytics to boost efficiency and productivity. Data analytics may also allow farmers make
+4: Applying data analytics to boost efficiency and productivity. Data analytics may also allow farmers make
 better judgements regarding their livestock and their business as a whole, which can enhance overall
 farm operations. Using this type of technology, farmers can track the condition of their pastures over
 extended periods of time, enabling them to make informed choices while still on the farm, rather than
 having those decisions made wirelessly from afar by an individual who may not notice all of the specifics
 of each circumstance at this time.
 
-5- Making better choices. Data analytics may also be utilised to assist farmers in making better informed
+5: Making better choices. Data analytics may also be utilised to assist farmers in making better informed
 decisions regarding their livestock and their whole enterprise. Farmers can far more easily monitor the
 health of their cattle over lengthy periods of time by employing this sort of equipment.
 
-6- Asset management. This is highly relevant if you have a lot going on with your herd. For instance, if you
+6: Asset management. This is highly relevant if you have a lot going on with your herd. For instance, if you
 have an old cow that has begun generating less dairy over time or one that is becoming ill due to poor
 health, data analytics can help you evaluate if she ought to be put down or managed to sell off so you
 wouldn't make a loss.
@@ -48,7 +50,7 @@ Required tenserflow configuration & Misc Library prerequisite
 
 ## Usage
 ```sh
-
+No usage documentation required
 ```
 
 ## Author
