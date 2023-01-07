@@ -32,6 +32,7 @@ have an old cow that has begun generating less dairy over time or one that is be
 health, data analytics can help you evaluate if she ought to be put down or managed to sell off so you
 wouldn't make a loss.
 
+## Language type
 This project was made with Python💻
 
 ## Version
@@ -61,4 +62,4 @@ No usage documentation required
 
 Give a ⭐️ if this project helped you!
 
-Readme created with ❤️ using [NESS](https://github.com/GreenVortex/NESS)
+Readme created with ❤️ using [NESS](https://github.com/GreenVortex/NESS) a project by [Jan Andersson](https://www.linkedin.com/in/typicaljohan/)
